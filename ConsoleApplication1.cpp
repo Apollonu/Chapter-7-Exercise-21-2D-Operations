@@ -126,8 +126,7 @@ static void chooseFunction(double array[height][length], int choice) {
     }
 }
 
-int main()
-{
+int main() {
     int choice;
     double array[height][length] = { {4, 8, 1, 3}, {6, 4 ,5, 9}, {10, 3, 2, 6} };
 
